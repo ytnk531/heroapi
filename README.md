@@ -12,6 +12,6 @@ Change the value of `heroesUrl` to `'http://localhost:9000/api/heroes'` in `hero
 Then,
 ```
 $ git clone
-$ cd 
+$ cd heroapi
 $ sbt run
 ```
